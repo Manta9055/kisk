@@ -1,0 +1,70 @@
+﻿body {
+  background: url('http://i.imgur.com/UhzLay7.png');
+  float: right;
+}
+
+  .content {
+    font-weight: normal;
+  font-family: sans-serif;
+  margin: 20%;
+  margin-top: 20px;
+  border-style: groove;
+  border-color: hsla(199, 75%, 55%, 1);
+  background-color: hsla(199, 75%, 55%, 0.7);
+  border-radius: 5%;
+  border-width: 5%;
+  padding-top: 5%;
+  padding-right: 5%;
+  padding-bottom: 5%;
+  padding-left: 5%;
+  border-width: 30px;
+  }
+.zanr {
+  text-transform: uppercase;
+  text-align: center;
+  margin: 20px;
+  font-size: 220%;
+color: black;
+
+}
+    
+h1 {
+  font-style: normal;
+  line-height: 90%;
+  text-decoration: overline;
+  font-size: 160%;
+text-align: center;
+}
+
+.svec {
+  font-size: 100%;
+  text-align: justify;
+}
+
+.zadas {
+  font-size: 100%;
+  text-align: justify;
+}
+
+.autor {
+  text-align: justify;
+}
+
+.zdroj {
+  text-align: justify;
+}
+
+#pytel {
+  text-align: justify;
+  font-size: 100%;
+}
+
+#soutez {
+  text-align: justify;
+  font-size: 100%;  
+}
+
+#zaver {
+  text-align: justify;
+  font-size: 100%;
+}
