@@ -1,0 +1,83 @@
+﻿ body {
+    background-color: #ffffff;
+    float: center;
+    font-family: 'Open sans', Arial, sans-serif;
+    color: #4885ed;
+  }
+
+.content {
+  text-decoration: blink;
+  display: table;
+  margin: 0px auto 0px auto;
+  padding:5px;font-size:20px;color: #4885ed;
+  background-color: #f1f1f1;
+}  
+
+
+h1 {
+  font-family: 'Product Sans', Arial, sans-serif;
+  font-size: 300%;
+  text-align: center;
+  line-height: 300%;
+}
+
+.cert 
+{
+ color: #db3236;
+}
+
+.hloupy {
+  color: #3cba54;
+}
+
+.pismenoa {
+  color: #4885ed;
+}
+
+.svec {
+  color: #f4c20d;
+}  
+.chytry {
+  color: #db3236;
+}
+
+#uvod {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding:5px;font-size:100%;color: #4885ed;
+  background-color: #f1f1f1;
+}
+
+#pytel {
+    display: table;
+  margin: 0px auto 0px auto;
+  padding:5px;font-size:100%;color: #4885ed;
+  background-color: #f1f1f1;
+}
+
+.soutez {
+  display: table;
+  margin: 0px auto 0px auto;
+  padding:5px;font-size:100%;color: #4885ed;
+  background-color: #f1f1f1;
+}
+
+#zaver {
+  line-height: normal;
+  font-weight: normal;
+    display: table;
+  margin: 0px auto 0px auto;
+  padding:5px;font-size:100%;color: #4885ed;
+  background-color: #f1f1f1;
+}
+
+#konec {
+    display: table;
+  margin: 0px auto 0px auto;
+  padding:5px;font-size:100%;color: #4885ed;
+  background-color: #f1f1f1;
+}
+
+.pismenoO {
+color: #4885ed;
+  {
